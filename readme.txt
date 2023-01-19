@@ -1,0 +1,1 @@
+There are two command line games/programs in this file and they are both in java. One is the game of nim where you go against a computer taking 1-3 objects and the last player to take an object loses. You are designed to lose this game but if you think you can beat the computer, try your luck. The second game is a game of tic tac toe. I don't believe this game needs explaining.
